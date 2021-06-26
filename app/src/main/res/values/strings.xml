@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Santander</string>
+    <string name="ola_mundo">Olá munto!!!</string>
+    <string name="text_saldo_disponivel">Saldo disponivel</string>
+    <string name="txt_saldo_limite">Saldo - Limite</string>
+    <string name="txt_ver_extrato">Ver Extrato</string>
+    <string name="txt_pagar">Pagar</string>
+    <string name="txt_recarregar">Recarregar</string>
+    <string name="txt_transferir">Transferir</string>
+    <string name="txt_cartao_final">Cartão Final</string>
+    <string name="txt_cartao_final_value">0123</string>
+
+</resources>
